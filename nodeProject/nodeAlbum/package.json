@@ -1,0 +1,15 @@
+{
+  "name": "nodealbum",
+  "version": "1.0.0",
+  "description": "First node project!",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "H.J",
+  "license": "ISC"
+}
